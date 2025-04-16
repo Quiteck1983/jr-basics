@@ -46,5 +46,13 @@ Translation.Langs = {
             Me = "💭 /ME",
         },
     },
+    German = {
+        Said = "sagt:",
+        Joining = "betritt den Server",
+        Leaving = "verlässt den Server. Grund:",
+        LeftWhileDead = "!!!Combat-Log!!!",
+        Weapon = "Waffe:",
+        ApiKey = "Du brauchst in der server.cfg einen eingetragenen Steam api-key!"
+    },
     -- Add more languages here, please contribute if you made a new language! :)
 }
